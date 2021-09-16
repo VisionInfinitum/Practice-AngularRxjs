@@ -1,1 +1,1 @@
-# Practice-AngularRxjs
+# AngularRxjs
